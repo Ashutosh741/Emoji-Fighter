@@ -1,5 +1,5 @@
-# cod8a4733b7e6161a9de67a97
-
+# Emoji fighter
+LIVE : https://luxury-gumption-2d730a.netlify.app/
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
